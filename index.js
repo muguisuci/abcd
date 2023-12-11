@@ -6,3 +6,4 @@ console.log("功能五");
 
 console.log("打印完成第五个功能");
 console.log("第六个功能");
+console.log("完成第七个功能");
