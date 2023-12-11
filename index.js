@@ -9,3 +9,4 @@ console.log("第六个功能");
 console.log("完成第七个功能");
 console.log("打印完成第八个功能");
 console.log("打印完成第9个功能");
+console.log("打印完成第10个功能");
